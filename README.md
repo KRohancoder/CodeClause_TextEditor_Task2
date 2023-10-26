@@ -1,5 +1,5 @@
 # CodeClause_TextEditor_Task2
-Text editor in Python using tkinter GUI toolkit. this is allowcated project by Codeclause 
+Text editor in Python using tkinter GUI toolkit. this is allowcated project by [Codeclause](https://codeclause.com/) 
 
 Author: Rohan Kadam
 
@@ -27,3 +27,29 @@ tkinter==8.6
 Then run it by double clicking on text_editor.py!
 
 
+# Features !
+
+- Various themes are available.
+- All required font styles and colours.
+- Copy and paste text
+- Save Easily in txt format
+
+# Editor's Interface Screenshot
+
+![Screenshot](c6.PNG)
+
+=======================================================================
+
+## 📌 Opensource Programs
+
+### [This project is a part of following Open Source Program](https://codeclause.com/)
+
+![Screenshot](codeclause.jpg)
+
+
+=======================================================================
+
+# Contributing
+Pull requests are welcome. If someone wants to contribute to this project can fork and add the Functionalities Or enhance the GUI.
+
+## Happy Contribution ✨
